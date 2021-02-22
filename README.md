@@ -1,2 +1,2 @@
-# financehomework
+# finance homework
 Ethereum
